@@ -1,3 +1,5 @@
+import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 import Sokoban from '../public/assets/projects/sokoban1.png';
 import Fractal from '../public/assets/projects/fractale.png';

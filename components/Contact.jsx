@@ -1,6 +1,6 @@
-import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import React from 'react';
 import { AiOutlineMail } from 'react-icons/ai';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
@@ -16,6 +16,7 @@ const Contact = () => {
         </p>
         <h2 className='py-4'>Contactez-moi</h2>
         <div className='flex items-center justify-center'>
+          {/* Gauche */}
           <div className='lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4 flex flex-col items-center'>
             <div>
               <Image
