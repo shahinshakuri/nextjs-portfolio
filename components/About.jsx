@@ -12,17 +12,17 @@ const About = () => {
           </p>
           <h2 className='py-4'>Qui suis-je</h2>
           <p className='py-2 text-gray-300'>
-            Je m'appelle Shahin Shakuri, j'ai 22 ans et je suis actuellement en
-            troisième année de Formation BUT à l'Université de Lens, en
-            alternance à l'Université de Lille. Ayant obtenu un bac S, j'ai
-            toujours été passionné par l'informatique, c'est pourquoi j'ai
+            Je m&apos;appelle Shahin Shakuri, j&apos;ai 22 ans et je suis actuellement en
+            troisième année de Formation BUT à l&apos;Université de Lens, en
+            alternance à l&apos;Université de Lille. Ayant obtenu un bac S, j&apos;ai
+            toujours été passionné par l&apos;informatique, c&apos;est pourquoi j&apos;ai
             choisi de devenir développeur.
           </p>
           <p className='py-2 text-gray-300'>
-            Au cours de ma formation, j'ai eu l'occasion de développer mes
-            compétences en créant différents types d'applications. Actuellement,
+            Au cours de ma formation, j&apos;ai eu l&apos;occasion de développer mes
+            compétences en créant différents types d&apos;applications. Actuellement,
             je me concentre davantage sur le développement backend et frontend.
-            Mon parcours m'a permis d'acquérir une solide expertise et de
+            Mon parcours m&apos;a permis d&apos;acquérir une solide expertise et de
             mettre en pratique mes connaissances dans le domaine du
             développement informatique.
           </p>
