@@ -27,7 +27,7 @@ const Main = () => {
           </h1>
           <h1 className='py-2 text-gray-300'>Développeur Web</h1>
           <p className='py-4 text-gray-300 sm:max-w-[70%] m-auto'>
-            Je suis spécialisé dans la création d'applications web tout en
+            Je suis spécialisé dans la création d&apos;applications web tout en
             suivant une formation en alternance.
           </p>
         </div>
